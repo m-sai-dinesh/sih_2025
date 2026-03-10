@@ -144,6 +144,3 @@ The application uses MongoDB with the following collections:
 4. Test your changes
 5. Update documentation
 
-## License
-
-MIT License
