@@ -1,0 +1,126 @@
+{
+  "en": {
+    "Earthquake": {
+        "description": "Sudden shaking of the ground caused by seismic waves.",
+        "dos": [
+            "Drop, Cover, and Hold On under a sturdy table or desk.",
+            "Stay away from windows, glass, and heavy objects.",
+            "If outdoors, stay in an open area away from buildings and power lines.",
+            "After shaking stops, evacuate calmly to a designated safe zone."
+        ],
+        "donts": [
+            "Do not use elevators.",
+            "Do not stand in doorways.",
+            "Do not rush outside during the shaking.",
+            "Do not light matches or use lighters due to potential gas leaks."
+        ]
+    },
+    "Flood": {
+        "description": "An overflow of a large amount of water beyond its normal limits.",
+        "dos": [
+            "Move to higher ground immediately.",
+            "Listen to emergency broadcasts for updates.",
+            "Turn off utilities if instructed to do so.",
+            "Have an emergency kit ready."
+        ],
+        "donts": [
+            "Do not walk or drive through floodwaters.",
+            "Do not touch electrical equipment if you are wet or standing in water.",
+            "Do not eat food that has come in contact with floodwater.",
+            "Do not wait to evacuate if advised to do so."
+        ]
+    },
+    "Cyclone": {
+        "description": "A large-scale, atmospheric, vortical storm system characterized by a low-pressure center.",
+        "dos": [
+            "Stay indoors and away from windows.",
+            "Secure loose objects outside your home/school.",
+            "Keep an emergency kit with food, water, and first aid.",
+            "Follow official evacuation orders without delay."
+        ],
+        "donts": [
+            "Do not go outside, even if the storm seems to have calmed (eye of the storm).",
+            "Do not ignore warnings from authorities.",
+            "Do not spread rumors; rely on official sources.",
+            "Do not leave shelters until authorities confirm it's safe."
+        ]
+    },
+    "Tsunami": {
+        "description": "A series of large ocean waves caused by underwater earthquakes or volcanic eruptions.",
+        "dos": [
+            "If you feel an earthquake near the coast, evacuate to higher ground immediately.",
+            "Listen for official Tsunami warnings.",
+            "Move inland as far as possible, away from the coast.",
+            "Grab your emergency kit if possible."
+        ],
+        "donts": [
+            "Do not wait for an official warning if you see the ocean receding unusually.",
+            "Do not return to the coast until authorities declare it safe.",
+            "Do not go to the beach to watch a tsunami.",
+            "Do not assume the first wave is the last or largest."
+        ]
+    }
+  },
+  "hi": {
+    "Earthquake": {
+        "description": "भूकंपीय तरंगों के कारण जमीन का अचानक हिलना।",
+        "dos": [
+            "एक मजबूत मेज या डेस्क के नीचे झुकें, ढकें और पकड़ें।",
+            "खिड़कियों, कांच और भारी वस्तुओं से दूर रहें।",
+            "यदि बाहर हैं, तो इमारतों और बिजली लाइनों से दूर खुले क्षेत्र में रहें।",
+            "कंपन बंद होने के बाद, शांति से एक निर्दिष्ट सुरक्षित क्षेत्र में निकल जाएं।"
+        ],
+        "donts": [
+            "लिफ्ट का प्रयोग न करें।",
+            "दरवाजों में खड़े न हों।",
+            "कंपन के दौरान बाहर की ओर न भागें।",
+            "संभावित गैस रिसाव के कारण माचिस या लाइटर न जलाएं।"
+        ]
+    },
+    "Flood": {
+        "description": "बड़ी मात्रा में पानी का अपनी सामान्य सीमाओं से परे बहना।",
+        "dos": [
+            "तुरंत ऊँची जमीन पर जाएँ।",
+            "अपडेट के लिए आपातकालीन प्रसारण सुनें।",
+            "यदि निर्देश दिया जाए तो उपयोगिताओं को बंद कर दें।",
+            "एक आपातकालीन किट तैयार रखें।"
+        ],
+        "donts": [
+            "बाढ़ के पानी से होकर न चलें और न ही गाड़ी चलाएं।",
+            "यदि आप गीले हैं या पानी में खड़े हैं तो बिजली के उपकरणों को न छुएं।",
+            "बाढ़ के पानी के संपर्क में आए भोजन को न खाएं।",
+            "यदि सलाह दी जाए तो खाली करने के लिए प्रतीक्षा न करें।"
+        ]
+    },
+    "Cyclone": {
+        "description": "एक बड़े पैमाने पर, वायुमंडलीय, चक्रवाती तूफान प्रणाली जो कम दबाव केंद्र द्वारा पहचानी जाती है।",
+        "dos": [
+            "घर के अंदर और खिड़कियों से दूर रहें।",
+            "अपने घर/स्कूल के बाहर ढीली वस्तुओं को सुरक्षित करें।",
+            "भोजन, पानी और प्राथमिक चिकित्सा के साथ एक आपातकालीन किट रखें।",
+            "आधिकारिक निकासी आदेशों का बिना देरी के पालन करें।"
+        ],
+        "donts": [
+            "बाहर न जाएं, भले ही तूफान शांत हो गया हो (तूफान की आंख)।",
+            "अधिकारियों की चेतावनियों को नजरअंदाज न करें।",
+            "अफवाहें न फैलाएं; आधिकारिक स्रोतों पर भरोसा करें।",
+            "जब तक अधिकारी सुरक्षित होने की पुष्टि न कर दें, आश्रय न छोड़ें।"
+        ]
+    },
+    "Tsunami": {
+        "description": "पानी के नीचे भूकंप या ज्वालामुखी विस्फोट के कारण बड़ी समुद्री लहरों की एक श्रृंखला।",
+        "dos": [
+            "यदि आप तट के पास भूकंप महसूस करते हैं, तो तुरंत ऊँची जमीन पर चले जाएँ।",
+            "आधिकारिक सुनामी चेतावनियों को सुनें।",
+            "तट से दूर, जितना संभव हो सके अंतर्देशीय जाएं।",
+            "यदि संभव हो तो अपनी आपातकालीन किट ले लें।"
+        ],
+        "donts": [
+            "यदि आप समुद्र को असामान्य रूप से घटते हुए देखते हैं तो आधिकारिक चेतावनी की प्रतीक्षा न करें।",
+            "जब तक अधिकारी इसे सुरक्षित घोषित न कर दें, तब तक तट पर न लौटें।",
+            "सुनामी देखने के लिए समुद्र तट पर न जाएं।",
+            "यह न मानें कि पहली लहर आखिरी या सबसे बड़ी है।"
+        ]
+    }
+  }
+}

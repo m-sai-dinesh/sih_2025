@@ -1,0 +1,9 @@
+
+[
+  { "id": "1", "username": "ria", "role": "Primary Student (Classes 1-5)", "password": "password123" },
+  { "id": "2", "username": "suresh", "role": "Secondary Student (Classes 6-12)", "password": "password123" },
+  { "id": "3", "username": "anjali", "role": "College Student", "password": "password123" },
+  { "id": "4", "username": "kumar", "role": "Parent", "password": "password123" },
+  { "id": "5", "username": "desai", "role": "Administrator/Teacher", "password": "password123" },
+  { "id": "6", "username": "vikram", "role": "Parent", "password": "password123" }
+]

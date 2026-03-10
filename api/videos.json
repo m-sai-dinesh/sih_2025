@@ -1,0 +1,66 @@
+
+[
+    {
+      "title": "Earthquake Safety Video (NDMA India)",
+      "description": "An official animated guide from India's National Disaster Management Authority on earthquake safety. Fully verified and embeddable.",
+      "thumbnail": "https://img.youtube.com/vi/MKILThtPxQs/hqdefault.jpg",
+      "url": "https://youtu.be/MKILThtPxQs",
+      "category": "Natural Disaster"
+    },
+    {
+      "title": "Flood Safety: Know Your Risk",
+      "description": "An official Ready.gov video explaining how to understand your flood risk and take action to protect yourself and your property.",
+      "thumbnail": "https://img.youtube.com/vi/jgn9RVau2QI/hqdefault.jpg",
+      "url": "https://youtu.be/jgn9RVau2QI",
+      "category": "Natural Disaster"
+    },
+    {
+      "title": "Hurricane Preparedness Guide",
+      "description": "A comprehensive guide on how to prepare for and stay safe during a hurricane or cyclone.",
+      "thumbnail": "https://img.youtube.com/vi/nA6lrH3V18E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nA6lrH3V18E",
+      "category": "Natural Disaster"
+    },
+     {
+      "title": "First Aid: How to Treat Severe Bleeding",
+      "description": "Learn the critical steps to control severe bleeding and potentially save a life with this guide from the British Red Cross.",
+      "thumbnail": "https://img.youtube.com/vi/NxO5LvgqZe0/hqdefault.jpg",
+      "url": "https://youtu.be/NxO5LvgqZe0",
+      "category": "First Aid"
+    },
+     {
+      "title": "How to Build a 'Go-Bag' Emergency Kit",
+      "description": "Ready.gov shows you how to assemble a portable emergency kit with all the essentials for any disaster.",
+      "thumbnail": "https://img.youtube.com/vi/KKN7Ewht1DQ/hqdefault.jpg",
+      "url": "https://youtu.be/KKN7Ewht1DQ",
+      "category": "Preparedness"
+    },
+    {
+      "title": "Tsunami Safety Information",
+      "description": "Learn what to do to stay safe during a tsunami with this guide from the National Weather Service.",
+      "thumbnail": "https://img.youtube.com/vi/7EDflnGzjTY/hqdefault.jpg",
+      "url": "https://youtu.be/7EDflnGzjTY",
+      "category": "Natural Disaster"
+    },
+    {
+      "title": "Create a Family Emergency Plan",
+      "description": "Disasters can separate families. Learn from Ready.gov how to create a simple communication plan to reconnect.",
+      "thumbnail": "https://img.youtube.com/vi/kE3XAwR412I/hqdefault.jpg",
+      "url": "https://youtu.be/kE3XAwR412I",
+      "category": "Preparedness"
+    },
+    {
+      "title": "Lightning Safety Indoors and Outdoors",
+      "description": "An essential guide on staying safe during a thunderstorm from the National Weather Service. Remember: When Thunder Roars, Go Indoors!",
+      "thumbnail": "https://img.youtube.com/vi/doGI-hs_5-A/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=doGI-hs_5-A",
+      "category": "Natural Disaster"
+    },
+    {
+      "title": "First Aid: How to Help a Choking Adult",
+      "description": "A clear and simple guide from St John Ambulance on how to perform back blows and abdominal thrusts for someone who is choking.",
+      "thumbnail": "https://img.youtube.com/vi/MkTZlRyXQiY/hqdefault.jpg",
+      "url": "https://youtu.be/MkTZlRyXQiY",
+      "category": "First Aid"
+    }
+]

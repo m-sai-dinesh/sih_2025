@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0d1117" />
+    <meta
+      name="description"
+      content="EduDisaster: Personalized Disaster Preparedness Platform"
+    />
+    <title>EduDisaster // Secure Shell</title>
+    <style>
+      /* Add some global styles for the vibe */
+      body {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+      .ripple {
+        position: absolute;
+        border-radius: 50%;
+        background-color: rgba(255, 255, 255, 0.6);
+        transform: scale(0);
+        animation: ripple-effect 0.6s linear;
+        pointer-events: none;
+      }
+      @keyframes ripple-effect {
+        to {
+          transform: scale(4);
+          opacity: 0;
+        }
+      }
+    </style>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+              mono: ['"Fira Code"', 'monospace'],
+            },
+            colors: {
+              primary: '#5865F2',   // Discord-like Violet
+              secondary: '#00A4E4', // Electric Blue
+              accent: '#23A55A',    // Emerald Green
+              danger: '#F04747',    // Red
+              light: '#EBEDF0',
+              dark: {
+                DEFAULT: '#2D3748',
+                100: '#F7FAFC',
+                200: '#c9d1d9', // Light Text
+                300: '#CBD5E0',
+                400: '#A0AEC0',
+                500: '#718096',
+                600: '#4A5568',
+                700: '#30363d', // Borders
+                800: '#161b22', // Card BG
+                900: '#0d1117', // Main BG
+              },
+            },
+            animation: {
+              'fade-in-up': 'fadeInUp 0.5s ease-out forwards',
+            },
+            keyframes: {
+              fadeInUp: {
+                '0%': { opacity: '0', transform: 'translateY(10px)' },
+                '100%': { opacity: '1', transform: 'translateY(0)' },
+              },
+            },
+          },
+        },
+      }
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fira+Code:wght@400;500;700&display=swap" rel="stylesheet">
+  <script type="importmap">
+{
+  "imports": {
+    "recharts": "https://aistudiocdn.com/recharts@^3.3.0",
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.28.0"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-dark-900 text-dark-200">
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>

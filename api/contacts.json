@@ -1,0 +1,10 @@
+
+[
+    { "name": "National Emergency Number", "number": "112" },
+    { "name": "Police", "number": "100" },
+    { "name": "Fire", "number": "101" },
+    { "name": "Ambulance", "number": "102 / 108" },
+    { "name": "Disaster Management (NDMA)", "number": "011-26701728" },
+    { "name": "Women's Helpline", "number": "1091" },
+    { "name": "Child Helpline", "number": "1098" }
+]

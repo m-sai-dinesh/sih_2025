@@ -1,0 +1,22 @@
+
+{
+    "preparednessScore": 82,
+    "studentsTrained": 1250,
+    "drillsCompleted": 48,
+    "participationByGrade": [
+        { "name": "Grade 6", "participation": 85 },
+        { "name": "Grade 7", "participation": 92 },
+        { "name": "Grade 8", "participation": 78 },
+        { "name": "Grade 9", "participation": 95 },
+        { "name": "Grade 10", "participation": 88 },
+        { "name": "Grade 11", "participation": 91 },
+        { "name": "Grade 12", "participation": 80 }
+    ],
+    "preparednessByDisaster": [
+        { "subject": "Earthquake", "score": 90, "fullMark": 100 },
+        { "subject": "Fire", "score": 85, "fullMark": 100 },
+        { "subject": "Flood", "score": 70, "fullMark": 100 },
+        { "subject": "Cyclone", "score": 75, "fullMark": 100 },
+        { "subject": "First Aid", "score": 88, "fullMark": 100 }
+    ]
+}
