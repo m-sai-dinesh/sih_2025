@@ -143,4 +143,5 @@ The application uses MongoDB with the following collections:
 3. Implement proper error handling
 4. Test your changes
 5. Update documentation
+6. exit
 
