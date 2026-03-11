@@ -11,7 +11,7 @@ sih_2025_edudisaster/
 │   ├── routes/             # API routes
 │   ├── middleware/         # Express middleware
 │   ├── config/             # Database configuration
-│   ├── scripts/            # Database seeding
+│   ├── scripts/            # Database seedings
 │   ├── data/               # Initial data (JSON files)
 │   └── server.js           # Main server file
 ├── frontend/               # React TypeScript application
